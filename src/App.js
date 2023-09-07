@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import {RecoilRoot} from 'recoil';
+import {BrowserRouter, Routes, Route, useLocation} from 'react-router-dom';
+
+import Headers from './component/header/header.container';
+import MainPage from './component/main/main.container';
+import LoginPage from './component/login/login.container';
+import NavigationPage from './component/navigation/navigation.container';
+import CategoriesPage from './component/categories/categories.container';
 
 function App() {
+  const location = useLocation();
+
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <RecoilRoot>
+      <Headers />
+      {location.pathname === '/categories' &&<NavigationPage />}
+      <Routes>
+        <Route path='/'element={<MainPage />}></Route>
+        <Route path='/login' element={<LoginPage/>}></Route>
+        <Route path='/:categories' element={<CategoriesPage />}></Route>
+      </Routes>
+    </RecoilRoot>
   );
 }
 

@@ -1,0 +1,86 @@
+{
+    "info" : [
+        {
+            "index" : "0",
+            "image" : "https://a0.muscache.com/im/pictures/7c7ccb34-a563-4f25-9fba-e4a46e2dbc3a.jpg?im_w=480",
+            "title" : "여행 계획 변동 가능성에 대비하세요",
+            "content" : "환불 정책이 유연한 숙소를 예약하면 여행 계획이 변경되어도 쉽게 재예약할 수 있습니다."
+        },{
+            "index" : "1",
+            "image" : "https://a0.muscache.com/im/pictures/d51be571-b8cf-4379-8d3f-7c5e56c9def5.jpg?im_w=480",
+            "title" : "운영 중인 숙소 7백만 개 이상",
+            "content" : "220개 이상의 국가와 지역의 휴양지를 찾은 10억 명 이상의 게스트 중 한 명이 되어보세요."
+        },{
+            "index" : "2",
+            "image" : "https://a0.muscache.com/im/pictures/a52e81a9-e390-4e74-b197-1aeeffd0e5ab.jpg?im_w=480",
+            "title" : "최적화된 숙소 검색을 위한 100개 이상의 필터",
+            "content" : "원하는 가격대, 객실 수, 기타 주요 편의시설을 선택하여 나에게 딱 맞는 숙소를 찾아보세요."
+        }
+    ],
+    "like" : [
+        {
+            "index" : "0",
+            "image" : "https://a0.muscache.com/im/pictures/6723c968-a444-46bd-98ed-1d4bd2ebb20a.jpg?im_w=720",
+            "title" : "Geumsan-si의 집",
+            "score" : "4.96(96)",
+            "summary" : "스테이 쉼",
+            "count" : "지난주 596회 조회됨",
+            "date"  : "11 월 19일 ~ 24일",
+            "dayMoney" : "₩148,353",
+            "totalMoney"  : "₩645,707"
+        },{
+            "index" : "1",
+            "image" : "https://a0.muscache.com/im/pictures/d1aafb0f-36ca-4d30-bbd0-7060de2abc55.jpg?im_w=720",
+            "title" : "Geumsan-eup, Geumsan-gun의 집",
+            "score" : "4.97(70)",
+            "summary" : "스테이로이",
+            "count" : "지난주 801회 조회됨",
+            "date"  : "10 월 2일 ~ 7일",
+            "dayMoney" : "₩330,941",
+            "totalMoney"  : "₩1,645,707"
+        },{
+            "index" : "2",
+            "image" : "https://a0.muscache.com/im/pictures/12d9d1ec-f964-4676-a666-e4ecb73c99e3.jpg?im_w=720",
+            "title" : "조양동, 속초시의 아파트",
+            "score" : "4.97(285)",
+            "summary" : "청초",
+            "count" : "지난주 391회 조회됨",
+            "date"  : "10 월 2일 ~ 7일",
+            "dayMoney" : "₩330,941",
+            "totalMoney"  : "₩625,707"
+        },{
+            "index" : "3",
+            "image" : "https://a0.muscache.com/im/pictures/a809a76b-311e-4c90-bce1-2a0898ad3e15.jpg?im_w=720",
+            "title" : "전주시 완산구의 집",
+            "score" : "4.9(97)",
+            "summary" : "한옥스테이",
+            "count" : "지난주 889회 조회됨",
+            "date"  : "9 월 18일 ~ 23일",
+            "dayMoney" : "₩270,941",
+            "totalMoney"  : "₩1,645,707"
+        }
+    ],
+    "qeustion" : [
+        {
+            "index" : "0",
+            "title" : "에어비앤비는 무엇이며 어떻게 이용할 수 있나요?",
+            "content" : "에어비앤비는 전 세계 수백만 명의 호스트와 게스트가 쉽고 안전하고 즐겁게 여행 및 호스팅할 수 있도록 개인 프로필과 등록 숙소/체험을 확인합니다. 에어비앤비에 대해 자세히 알아보세요."
+        },{
+            "index" : "1",
+            "title" : "검색 필터는 어떻게 이용하나요?",
+            "content" : "에어비앤비 검색 필터를 사용하면 원하는 편의시설을 갖춘 체험이나 숙소만 표시할 수 있습니다. 검색 필터 사용법과 유연한 검색 방법에 대해 자세히 알아보세요."
+        },{
+            "index" : "2",
+            "title" : "호스트와 직접 만나야 하나요?",
+            "content" : "셀프 체크인을 이용하거나 집 전체 숙소를 예약하면 앱의 메시지 기능을 통해 호스트와 비대면으로 소통할 수 있으며, 문제가 생기면 언제든 호스트에게 메시지를 보낼 수 있습니다."
+        },{
+            "index" : "3",
+            "title" : "숙소나 호스트에 문제가 있어 예약을 취소해야 할 경우에는 어떻게 하나요?",
+            "content" : "대부분의 문제는 호스트에게 직접 메시지를 보내 해결할 수 있습니다. 호스트가 해결할 수 없는 문제라면, 문제를 발견한 후 24시간 이내에 에어비앤비에 연락해 주세요. 자세히 알아보기"
+        },{
+            "index" : "4",
+            "title" : "더 자세히 알아보고 싶으세요?",
+            "content" : "에어비앤비 도움말 센터에서 질문에 대한 더 상세한 답을 확인해 보세요. 자세히 알아보기"
+        }
+    ]
+}
